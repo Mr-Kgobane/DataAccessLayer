@@ -1,0 +1,13 @@
+C:\PRG282\Exercises\Exercise_3\bin\Debug\Exercise_3.exe.config
+C:\PRG282\Exercises\Exercise_3\bin\Debug\Exercise_3.exe
+C:\PRG282\Exercises\Exercise_3\bin\Debug\Exercise_3.pdb
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.csproj.AssemblyReference.cache
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.csproj.SuggestedBindingRedirects.cache
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.Delete.resources
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.Student.resources
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.Properties.Resources.resources
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.Search.resources
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.csproj.GenerateResource.cache
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.csproj.CoreCompileInputs.cache
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.exe
+C:\PRG282\Exercises\Exercise_3\obj\Debug\Exercise_3.pdb
